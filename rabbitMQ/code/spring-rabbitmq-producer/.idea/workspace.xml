@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c70a98-501c-4c1e-9b2f-ea610096b112" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repo" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fwqT3fkrf4pPPIoVqTG0hhxYix" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-rabbitmq-consumer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\idea\spring-rabbitmq-producer\src\main\resources\spring" />
+      <recent name="F:\workspace\idea\spring-rabbitmq-producer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SenderDLX">
+    <configuration name="Producter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Producter" />
+      <module name="spring-rabbitmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Sender" />
+      <module name="spring-rabbitmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sender2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Sender2" />
+      <module name="spring-rabbitmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SenderDLX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.SenderDLX" />
+      <module name="spring-rabbitmq-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SenderDLX" />
+        <item itemvalue="Application.Producter" />
+        <item itemvalue="Application.Sender2" />
+        <item itemvalue="Application.Sender" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c70a98-501c-4c1e-9b2f-ea610096b112" name="Default Changelist" comment="" />
+      <created>1597139506113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597139506113</updated>
+      <workItem from="1597139514756" duration="2385000" />
+      <workItem from="1597201957959" duration="1143000" />
+      <workItem from="1597216694965" duration="4130000" />
+      <workItem from="1597223907279" duration="2673000" />
+      <workItem from="1597286927568" duration="1217000" />
+      <workItem from="1597288287560" duration="10632000" />
+      <workItem from="1597383145655" duration="830000" />
+      <workItem from="1597391981285" duration="672000" />
+      <workItem from="1597641648665" duration="380000" />
+      <workItem from="1597643954254" duration="2954000" />
+      <workItem from="1597658440796" duration="2027000" />
+      <workItem from="1597718258981" duration="1725000" />
+      <workItem from="1597734882731" duration="6365000" />
+      <workItem from="1597804728040" duration="3095000" />
+      <workItem from="1597910792911" duration="1348000" />
+      <workItem from="1597912527657" duration="2419000" />
+      <workItem from="1597918295023" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1597224114006">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="247" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597224114006" />
+    <state x="740" y="297" key="FileChooserDialogImpl" timestamp="1597392264419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="297" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597392264419" />
+    <state width="1876" height="507" key="GridCell.Tab.0.bottom" timestamp="1597919302943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="507" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597919302943" />
+    <state width="1876" height="507" key="GridCell.Tab.0.center" timestamp="1597919302942">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="507" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597919302942" />
+    <state width="1876" height="507" key="GridCell.Tab.0.left" timestamp="1597919302942">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="507" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597919302942" />
+    <state width="1876" height="507" key="GridCell.Tab.0.right" timestamp="1597919302943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="507" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597919302943" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1597221011772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597221011772" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1597221011772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597221011772" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1597221011771">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597221011771" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1597221011772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597221011772" />
+    <state x="652" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1597918295231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="652" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597918295231" />
+    <state x="330" y="243" key="new project wizard" timestamp="1597142413359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="330" y="243" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1597142413359" />
+  </component>
+</project>
